@@ -50,8 +50,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const msg = document.getElementById('loading-msg');
     if (msg) msg.style.display = 'block';
     setTimeout(() => {
-      window.location.href = 'http://p8r9.com/?utm_campaign=bg21FBUPMZ&v1=[v1]&v2=[v2]&v3=[v3]';
+      window.location.href = 'https://p8r9.com/?utm_campaign=8I4jG9Zuim&v1=[v1]&v2=[v2]&v3=[v3]';
     }, 5500);
-    btn.addEventListener('click', () => window.location.href = 'http://p8r9.com/?utm_campaign=bg21FBUPMZ&v1=[v1]&v2=[v2]&v3=[v3]');
+    btn.addEventListener('click', () => window.location.href = 'https://p8r9.com/?utm_campaign=8I4jG9Zuim&v1=[v1]&v2=[v2]&v3=[v3]');
   }
 });
